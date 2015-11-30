@@ -1,0 +1,11 @@
+[Tr069]
+FirstBoot = 1
+Enable = 1
+EventFlag = 000000000000000
+RequestQueue = 
+InformParameters = 
+CommandKey = 
+TransferStartTime = 
+TransferCompleteTime = 
+TransferResult = 0
+

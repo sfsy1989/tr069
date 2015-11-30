@@ -1,0 +1,2 @@
+#!/bin/sh
+/ipstb/bin/fstb11 $* >> /dev/null 2>&1
